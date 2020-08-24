@@ -15,6 +15,6 @@
 -->
 <resources>
     <!-- Max visible notification icons -->
-    <integer name="config_maxVisibleNotificationIcons">6</integer>
-    <integer name="config_maxVisibleNotificationIconsOnLock">7</integer>
+    <integer name="config_maxVisibleNotificationIcons">15</integer>
+    <integer name="config_maxVisibleNotificationIconsOnLock">15</integer>
 </resources>

@@ -22,5 +22,7 @@
 <resources>
     <!-- Doze: check proximity sensor before pulsing? -->
     <bool name="doze_proximity_check_before_pulse">false</bool>
+
+     <bool name="config_supportBatteryHealth">false</bool>
 </resources>
 
